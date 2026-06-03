@@ -1,13 +1,13 @@
 # Lab M7.04 - Workload Optimization Analysis
 
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon EventBridge](https://img.shields.io/badge/Amazon%20EventBridge-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Amazon EBS](https://img.shields.io/badge/Amazon%20EBS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-5.2-4EAA25?logo=gnubash&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2%20t3.micro-FF9900?logo=amazonec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/AWS-EventBridge-FF4F8B?logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?logo=amazonaws&logoColor=white)
+![Amazon EBS](https://img.shields.io/badge/AWS-EBS%20gp3-FF9900?logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-DD344C?logo=amazonaws&logoColor=white)
 
 ## What I Did
 - Set up a development environment with two tagged EC2 instances (t3.micro)
